@@ -1,9 +1,6 @@
 **Fire Data Analysis and Prediction**
 =============================================
 
-Fire Data Analysis and Prediction
---------------------------------
-
 This repository contains a Python project for analyzing and predicting fire data in Brazil. The project consists of three main components:
 
 ### 1. Data Processing
@@ -40,6 +37,6 @@ This will load the dataset, process the data, visualize the results, and predict
 	+ Total fires per month
 * The prediction plot will show the actual fires per year alongside the predicted fires for future years.
 
-###Contributing
+### Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
